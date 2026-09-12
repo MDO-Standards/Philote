@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/MDO-Standards/Philote/blob/main/doc/graphics/logos/philote.svg?raw=true" width="500">
+<img src="docs/static/img/logo.svg" width="500">
 </div>
 
 # Philote MDO
