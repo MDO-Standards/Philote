@@ -5,16 +5,16 @@ import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 
 const config: Config = {
-    title: "Philote-MDO",
+    title: "Philote",
     tagline:
         "An open standard for distributed multidisciplinary design optimization",
     favicon: "img/favicon.ico",
 
     url: "https://mdo-standards.github.io",
-    baseUrl: "/Philote-MDO/",
+    baseUrl: "/Philote/",
 
     organizationName: "MDO-Standards",
-    projectName: "Philote-MDO",
+    projectName: "Philote",
 
     onBrokenLinks: "throw",
 
@@ -42,7 +42,7 @@ const config: Config = {
                     remarkPlugins: [remarkMath],
                     rehypePlugins: [rehypeKatex],
                     editUrl:
-                        "https://github.com/MDO-Standards/Philote-MDO/tree/develop/docs/",
+                        "https://github.com/MDO-Standards/Philote/tree/develop/docs/",
                     lastVersion: "0.8.0",
                     versions: {
                         current: {
@@ -64,7 +64,7 @@ const config: Config = {
             respectPrefersColorScheme: true,
         },
         navbar: {
-            title: "Philote-MDO",
+            title: "Philote",
             items: [
                 {
                     type: "docSidebar",
@@ -77,7 +77,7 @@ const config: Config = {
                     position: "right",
                 },
                 {
-                    href: "https://github.com/MDO-Standards/Philote-MDO",
+                    href: "https://github.com/MDO-Standards/Philote",
                     label: "GitHub",
                     position: "right",
                 },
@@ -108,7 +108,7 @@ const config: Config = {
                     items: [
                         {
                             label: "GitHub",
-                            href: "https://github.com/MDO-Standards/Philote-MDO",
+                            href: "https://github.com/MDO-Standards/Philote",
                         },
                         {
                             label: "Changelog",
