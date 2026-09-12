@@ -222,7 +222,7 @@ function NetworkVisualization() {
                 textAnchor="middle"
                 letterSpacing="0.12em"
             >
-                gRPC // PHILOTE-MDO
+                gRPC // PHILOTE
             </text>
         </svg>
     );
@@ -330,7 +330,7 @@ function Hero() {
                         Read the Docs
                     </Link>
                     <Link
-                        to="https://github.com/MDO-Standards/Philote-MDO"
+                        to="https://github.com/MDO-Standards/Philote"
                         className={styles.ctaSecondary}
                     >
                         View on GitHub
